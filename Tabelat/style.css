@@ -1,0 +1,19 @@
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.nota1{
+    background-color: red;
+}
+.nota2{
+    background-color: orange;
+}
+.nota3{
+    background-color: yellow;
+}
+.nota4{
+background-color: yellowgreen;
+}
+.nota5{
+    background-color: green;
+}

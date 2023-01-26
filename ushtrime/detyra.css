@@ -1,0 +1,81 @@
+body{
+
+background-color:rgb(193, 192, 192);
+
+}
+div{
+display: inline-block;
+background-color: aliceblue;
+width: 20%;
+border-radius: 15px;
+padding: 35px;
+}
+span{
+
+    font-weight: bold;
+    font-weight: 60px;
+    color: black;
+
+}
+p{
+
+color:grey
+
+}
+img{
+
+width: 80px;
+height: 80px;
+
+}
+.yellow{
+
+color: rgb(255, 166, 0);
+font-size: 30px;
+font-weight: bold;}
+ul{
+
+    list-style-type: none;
+}
+
+ul li::before{ 
+
+content:"✔" ;
+color: yellow;
+
+}
+.butoni1{
+
+background-color: rgb(219, 217, 217);
+padding: 10px 30px ;
+border-radius: 10px;
+text-align: center;
+}
+.blue{
+
+font-weight: bold;
+color: blue;
+font-size: 25px;
+}
+.butoni2{
+border: 1px solid gray;
+padding:10px 30px ;
+border-radius: 10px;
+text-align: center;
+background-color: transparent;
+}
+.butoni3{
+
+    background-color: green;
+    padding: 10px 30px;
+    color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+}
+.green{
+
+    font-weight: bold;
+    color: green;
+    font-size: 25px;
+
+}

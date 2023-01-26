@@ -1,0 +1,24 @@
+body{
+    background-color: #c5d3f6;
+}
+tr{
+    border-bottom: 1px solid rgba(0, 0, 0, 1);
+}
+tr:first-child{
+    background-color: #6d7ae0;
+    color: white;
+}
+table{
+    background-color: white;
+    border: 1px solid blue;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+}
+tr:nth-child(even){
+    background-color:#fafafa;
+}
+td{
+   width: 150px;
+}
+
